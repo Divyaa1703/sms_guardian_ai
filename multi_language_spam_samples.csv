@@ -1,0 +1,13 @@
+message,label,language
+"Win a free iPhone now, click here",spam,english
+"Your OTP is 123456. Do not share with anyone",ham,english
+"Congratulations! You have been selected for a reward",spam,english
+"Meeting is confirmed for tomorrow at 10 AM",ham,english
+"आपके खाते को सुरक्षित करने के लिए अभी लॉगिन करें",spam,hindi
+"कल के लिए आपका टाइम क्या है?",ham,hindi
+"बैंक खाते में संदिग्ध गतिविधि मिली, तुरंत अपडेट करें"
+"आपका रिज़र्वेशन कन्फर्म हो गया है",ham,hindi
+"तुम्हाला ५०% सूट मिळाली आहे, लगेच पहा",spam,marathi
+"भेट मीटिंग उद्या दुपारी ३ वाजता आहे",ham,marathi
+"तुमच्या खात्यात अडचण आहे, लिंकवर क्लिक करा",spam,marathi
+"आज चहा प्यायला येणार का?",ham,marathi

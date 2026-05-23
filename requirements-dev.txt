@@ -1,0 +1,9 @@
+# Development dependencies for SMS Spam Classifier
+# Include all production requirements
+-r requirements.txt
+
+# Additional packages for development and training
+jupyter
+matplotlib
+seaborn
+wordcloud

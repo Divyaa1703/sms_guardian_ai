@@ -1,0 +1,12 @@
+spam|Win a free iPhone now, click here
+ham|Your OTP is 123456. Do not share with anyone
+spam|Congratulations! You have been selected for a reward
+ham|Meeting is confirmed for tomorrow at 10 AM
+spam|आपके खाते को सुरक्षित करने के लिए अभी लॉगिन करें
+ham|कल के लिए आपका टाइम क्या है?
+spam|बैंक खाते में संदिग्ध गतिविधि मिली, तुरंत अपडेट करें
+ham|आपका रिज़र्वेशन कन्फर्म हो गया है
+spam|तुम्हाला ५०% सूट मिळाली आहे, लगेच पहा
+ham|भेट मीटिंग उद्या दुपारी ३ वाजता आहे
+spam|तुमच्या खात्यात अडचण आहे, लिंकवर क्लिक करा
+ham|आज चहा प्यायला येणार का?
