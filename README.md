@@ -85,21 +85,26 @@ Spam count
 Non-spam count
 Charts and graphs
 Spam statistics
+
 💬 Feedback System
 Users can report wrong predictions
 Helps improve system performance
 🛠️ Technologies Used
+
 👨‍💻 Programming Language
 Python
+
 🤖 Machine Learning & NLP
 Scikit-learn
 NLTK
 TF-IDF Vectorizer
 Multinomial Naïve Bayes
+
 🌐 Web Technologies
 Streamlit
 HTML
 CSS
+
 🗄️ Database
 SQLite
 ⚙️ System Workflow
@@ -133,11 +138,9 @@ Helps model understand important words
 📌 Model Training
 
 Algorithm Used:
-
 Multinomial Naïve Bayes
 
 Why used?
-
 Fast
 Accurate
 Best for text classification
@@ -145,7 +148,6 @@ Best for text classification
 👤 Users Table
 
 Stores:
-
 User ID
 Username
 Email
@@ -154,7 +156,6 @@ Registration date
 📩 Classification Table
 
 Stores:
-
 Message
 Prediction
 Confidence score
@@ -163,7 +164,6 @@ Timestamp
 💬 Feedback Table
 
 Stores:
-
 User comments
 Prediction feedback
 Review status
@@ -190,6 +190,7 @@ Mobile Application
 More Language Support
 Real-time SMS Detection
 Automatic Model Retraining
+
 🎯 Advantages
 High accuracy
 Easy to use
@@ -197,11 +198,11 @@ Fast prediction
 Multi-language support
 Real-time processing
 Bulk classification support
+
 ⚠️ Limitations
 Depends on training dataset
 Limited to supported languages
 Cannot detect all new spam patterns
-👩‍💻 Developed By
-Divya Gore
 
+👩‍💻 Developed By Divya Gore
 🎓 MCA Student
