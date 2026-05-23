@@ -186,9 +186,13 @@ Prediction Speed	Fast
 
 🚀 Future Enhancements
 Deep Learning Integration
+
 Mobile Application
+
 More Language Support
+
 Real-time SMS Detection
+
 Automatic Model Retraining
 
 🎯 Advantages
@@ -205,5 +209,4 @@ Limited to supported languages
 Cannot detect all new spam patterns
 
 👩‍💻 Developed By Divya Gore
-
 🎓 MCA Student
