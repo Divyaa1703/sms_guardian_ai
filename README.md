@@ -1,100 +1,93 @@
 🚀📱 SMS Guardian AI
-Intelligent Multilingual Spam Detection System using Machine Learning & NLP
-
-
-
-
-
-
-
-
-
-
+Machine Learning & NLP Based Spam Detection System
 🌟 Project Overview
 
-SMS Guardian AI is an advanced Machine Learning and Natural Language Processing (NLP) based spam detection system that intelligently classifies SMS messages as Spam or Not Spam.
+SMS Guardian AI is an intelligent spam detection system that uses Machine Learning and Natural Language Processing (NLP) to classify SMS messages as:
 
-The system is specially designed to protect users from:
+✅ Spam
+✅ Not Spam
 
-🚨 Fraud messages
-🔗 Phishing links
-💰 Fake offers
-📢 Promotional spam
+The system helps users stay protected from:
 
-Unlike traditional spam filters, SMS Guardian AI uses intelligent text analysis to understand message patterns and predict spam with high accuracy.
+Fraud messages
+Phishing links
+Fake offers
+Promotional spam SMS
 
-✨ Key Features
+It also provides a simple and interactive web interface for real-time message prediction and analytics.
+
+✨ Main Features
 📩 Real-Time Spam Detection
-
-Users can instantly check whether a message is spam or safe.
-
+Users can type a message instantly
+System predicts Spam or Not Spam
+Fast and accurate prediction
 🌐 Multi-Language Support
 
 Supports:
 
-🇬🇧 English
-🇮🇳 Hindi
-🇮🇳 Marathi
+English
+Hindi
+Marathi
 
-👉 Makes the project practical for real-world Indian users.
+👉 Makes the system useful for real-world Indian users.
 
-📂 Bulk File Classification
+📂 Bulk File Upload
 
 Users can upload:
 
 CSV files
 TXT files
 
-for large-scale spam analysis.
+for bulk spam classification.
 
-📥 Export Results
+📥 Download Results
 
-Download classified results in:
+Users can:
 
-CSV
-Excel format
+Download classification results
+Export data in CSV/Excel format
 
-Includes:
+Results include:
 
 Message
 Prediction
 Confidence Score
-👨‍💻 Advanced Admin Panel
+👨‍💻 Admin Panel
 ✅ User Management
 
 Admin can:
 
 View registered users
-Block/Delete users
-Monitor user activity
+Delete users
+Block users
 ✅ Classification Monitoring
 
-Admin can track:
+Admin can view:
 
-Messages
-Predictions
-Languages
-URLs
-Confidence Scores
-✅ Feedback Reports
+Message details
+Prediction results
+Confidence score
+Language detected
+URLs found
+Timestamp
+✅ Feedback Management
 
 Admin can:
 
 View user feedback
-Mark reports as reviewed
+Mark feedback as reviewed
 📊 Analytics Dashboard
 
-Interactive dashboard showing:
+Dashboard displays:
 
-Total Messages
-Spam Count
-Non-Spam Count
-Spam Statistics
-Graphs & Charts
+Total messages
+Spam count
+Non-spam count
+Charts and graphs
+Spam statistics
 💬 Feedback System
-
-Users can report wrong predictions to improve future model performance.
-
+Users can report wrong predictions
+Helps improve system performance
 🛠️ Technologies Used
 👨‍💻 Programming Language
 Python
@@ -124,96 +117,91 @@ Spam Prediction
    ↓
 Database Storage
    ↓
-Result & Analytics
-🧠 Machine Learning Pipeline
+Result Display
+🧠 Machine Learning Process
 📌 Data Preprocessing
 
-The system cleans SMS text using:
+The system cleans text using:
 
 Lowercase conversion
 Tokenization
 Stopword removal
 Stemming
 📌 Feature Extraction
-
-TF-IDF converts text into numerical vectors for model training.
-
+TF-IDF converts text into numerical values
+Helps model understand important words
 📌 Model Training
 
-The system uses the Multinomial Naïve Bayes algorithm because:
+Algorithm Used:
 
-Fast performance
-High accuracy
+Multinomial Naïve Bayes
+
+Why used?
+
+Fast
+Accurate
 Best for text classification
-🗄️ Database Design
+🗄️ Database Tables
 👤 Users Table
-Field	Description
-id	User ID
-username	Username
-email	Email
-role	User/Admin
-created_at	Registration Time
+
+Stores:
+
+User ID
+Username
+Email
+Role
+Registration date
 📩 Classification Table
-Field	Description
-message	SMS content
-prediction	Spam/Not Spam
-confidence	Prediction confidence
-language	Detected language
-timestamp	Classification time
+
+Stores:
+
+Message
+Prediction
+Confidence score
+Language
+Timestamp
 💬 Feedback Table
-Field	Description
-comment	User feedback
-status	Pending/Reviewed
-timestamp	Feedback time
+
+Stores:
+
+User comments
+Prediction feedback
+Review status
 📈 Model Performance
 Metric	Result
 Accuracy	95–98%
 Precision	High
 Recall	High
 Prediction Speed	Fast
-📷 Main Modules
+📷 Modules Included
 
 ✅ Registration & Login
-✅ Spam Classification
-✅ Bulk File Upload
-✅ Classification History
+✅ Spam Detection
+✅ Multi-language Detection
+✅ File Upload
+✅ Download Results
 ✅ Admin Dashboard
-✅ Analytics
-✅ Feedback Reports
-✅ Result Export
+✅ Analytics Dashboard
+✅ Feedback System
 
 🚀 Future Enhancements
-🔥 Deep Learning Models (LSTM/BERT)
-📱 Mobile Application
-🌍 More Language Support
-☁️ Cloud Deployment
-🔄 Auto Model Retraining
-▶️ Installation & Setup
-📌 Clone Repository
-git clone <repository-link>
-📌 Install Dependencies
-pip install -r requirements.txt
-📌 Run Application
-streamlit run app.py
-🎯 Project Highlights
-
-✔ Machine Learning Based
-✔ NLP Integration
-✔ Multi-language Support
-✔ Admin Dashboard
-✔ Bulk Classification
-✔ Real-Time Prediction
-✔ Database Integration
-✔ Analytics & Visualization
-
+Deep Learning Integration
+Mobile Application
+More Language Support
+Real-time SMS Detection
+Automatic Model Retraining
+🎯 Advantages
+High accuracy
+Easy to use
+Fast prediction
+Multi-language support
+Real-time processing
+Bulk classification support
+⚠️ Limitations
+Depends on training dataset
+Limited to supported languages
+Cannot detect all new spam patterns
 👩‍💻 Developed By
 Divya Gore
 
 🎓 MCA Student
-💡 Passionate about Data Analytics & Machine Learning
-
-⭐ Conclusion
-
-SMS Guardian AI is a smart, scalable, and user-friendly spam detection system that combines Machine Learning, NLP, and Web Technologies to provide secure and intelligent SMS classification.
-
-The project successfully solves a real-world problem by helping users identify spam messages quickly and efficiently while improving digital communication safety.
