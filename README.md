@@ -209,4 +209,5 @@ Limited to supported languages
 Cannot detect all new spam patterns
 
 👩‍💻 Developed By Divya Gore
+<br>
 🎓 MCA Student
